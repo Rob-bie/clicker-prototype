@@ -1,6 +1,6 @@
 # aurelia-phaser-template
 
-Aurelia + Phaser 3.
+Aurelia + RequireJS + Phaser 3.
 
 ## usage
 
